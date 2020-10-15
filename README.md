@@ -9,4 +9,5 @@ This repository contains relevant implementation of topics from the AI Lab cours
 - [x] Implementation of the Water Jug Problem
 - [x] Implementation of the Hangman Game
 - [x] Implementation of the Tic-Tac-Toe Game using MiniMax Algorithm
-
+- [x] Chatbot Development using FlowXO
+- [x] Introduction to Prolog - Family Tree Example
