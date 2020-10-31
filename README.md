@@ -12,7 +12,7 @@ This repository contains relevant implementation of topics from the AI Lab cours
 * [x] Chatbot Development using FlowXO
 * [x] Introduction to Prolog - Family Tree Example
 * [x] Water Jug Problem using Prolog
-* [ ] Natural Language Processing - 1
+* [x] Natural Language Processing - 1
     - Word Analysis
     - Word Generation
     - Morphology
