@@ -18,4 +18,9 @@ This repository contains relevant implementation of topics from the AI Lab cours
     - Morphology
     - N-Grams
     - N-Grams Smoothing
-* [ ] Natural Language Processing - 2
+* [x] Natural Language Processing - 2
+    - POS Tagging: Hidden Markov Model
+    - POS Tagging: Viterbi Decoding
+    - Building POS Tagger
+    - Chunking
+    - Building Chunker
