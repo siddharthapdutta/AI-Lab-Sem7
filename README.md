@@ -24,3 +24,4 @@ This repository contains relevant implementation of topics from the AI Lab cours
     - Building POS Tagger
     - Chunking
     - Building Chunker
+* [x] Natural Language Processing using Python
